@@ -57,10 +57,14 @@ DR. Mojtaba Rafiee, Mathematics and Computer Science Department, Isfahan Univers
 DR. Jafar AlmasiZadeh, Mathematics and Computer Science Department, Isfahan University.
 
 ## RELEVANT COURSES
- -INTRO TO CRYPTOGRAPHY (20/20)                -MATRIX COMPU (20/20)
--MACHINE LEARNING THEORY (20/20)               -Design and Analysis of Algorithms(20/20)
-- Advanced Programming(20/20)                    -Linear Optimization(20/20)
-- Principles of Operating Systems(20/20)          -Artificial Intelligence(19/20)
+- INTRO TO CRYPTOGRAPHY (20/20)
+-  MATRIX COMPU (20/20)
+- MACHINE LEARNING THEORY (20/20)
+- Design and Analysis of Algorithms(20/20)
+- Advanced Programming(20/20)
+- Linear Optimization(20/20)
+- Principles of Operating Systems(20/20)
+- Artificial Intelligence(19/20)
 - Principles of Network Security (19.75/20)
 
 ## WORKSHOPS AND SEMINARS
