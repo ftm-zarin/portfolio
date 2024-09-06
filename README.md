@@ -1,6 +1,6 @@
 # Fatemeh Zarinjouee
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, MATLAB
 
 ## Education		
 - M.S.,  Computer Science 	| Sharif Univesity of Technology, Tehran, Iran, GPA: 19.64 out of 20	 
@@ -15,14 +15,14 @@
 • Privacy
 
 ## RESEARCH EXPERIENCE
-**Graduate Research Assistant under the supervision of Dr. Shahram Khazaei(2023 - Present_)**
+**Graduate Research Assistant under the supervision of Dr. Shahram Khazaei(2023 - Present)**
 Sharif University of Technology, Tehran, Iran.
 Thesis: Privacy-Preserving Federated Learning
 -  Research methods to enhance the privacy and security of federated learning systems.
 -  Focusing on developing algorithms and protocols that allow for distributed machine learning without compromising user data privacy.
 -  Currently writing the thesis to publish a paper based on the research findings.
 
-**Automated Quality Control System using YOLO for Electronic Boards(2022 - 2023_)**
+**Automated Quality Control System using YOLO for Electronic Boards(2022 - 2023)**
 University of Isfahan, Isfahan, Iran.
 Advisor: Dr. Mohsen Alambardar
 - Developed an image processing application utilizing YOLO to inspect electronic boards on a conveyor belt.
@@ -31,29 +31,29 @@ Advisor: Dr. Mohsen Alambardar
 
 
 ## Course Projects
-### Computer Vision Project
+#### Computer Vision Project
 Introduction to Machine Learning course project, Department of Mathematical Sciences, Sharif University of Technology.
 
-### Face recognition using eigenfaces and PCA 
+#### Face recognition using eigenfaces and PCA 
 Matrix Computations course project, Department of Mathematical Sciences, Sharif University of Technology
 
-### Cracking a classic Encryption Scheme
+#### Cracking a classic Encryption Scheme
 Cryptography Project, Mathematics and Computer Science Department, Isfahan University.
 
-### Developing Compiler Scanner using python
+#### Developing Compiler Scanner using python
 Compiler Design Project, Mathematics and Computer Science Department, Isfahan University.
 
-#### implementation of an RSA encryption and decryption system
+##### Implementation of an RSA encryption and decryption system
 Advanced Programming Project, Mathematics and Computer Science Department, Isfahan University.
 
 
 ## Teaching Experience
-### Teaching Assistant for Graduate course ”Foundation of Blockchains”.
+#### Teaching Assistant for Graduate course ”Foundation of Blockchains”.
 Prof. Mohammad Ali Maddah-Ali, Department of Electrical and Computer Engineering, University of Minnesota,
 Twin Cities.
-### Teaching Assistant for BS course ”Mathematical Database”. 
+#### Teaching Assistant for BS course ”Mathematical Database”. 
 DR. Mojtaba Rafiee, Mathematics and Computer Science Department, Isfahan University.
-###  Head Teaching Assistant for BS course ”Data Structure and Algorithms
+####  Head Teaching Assistant for BS course ”Data Structure and Algorithms
 DR. Jafar AlmasiZadeh, Mathematics and Computer Science Department, Isfahan University.
 
 ## RELEVANT COURSES
