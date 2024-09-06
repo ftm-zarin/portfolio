@@ -16,6 +16,7 @@
 
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant under the supervision of Dr. Shahram Khazaei(2023 - Present)**
+
 Sharif University of Technology, Tehran, Iran.
 Thesis: Privacy-Preserving Federated Learning
 -  Research methods to enhance the privacy and security of federated learning systems.
@@ -23,6 +24,7 @@ Thesis: Privacy-Preserving Federated Learning
 -  Currently writing the thesis to publish a paper based on the research findings.
 
 **Automated Quality Control System using YOLO for Electronic Boards(2022 - 2023)**
+
 University of Isfahan, Isfahan, Iran.
 Advisor: Dr. Mohsen Alambardar
 - Developed an image processing application utilizing YOLO to inspect electronic boards on a conveyor belt.
