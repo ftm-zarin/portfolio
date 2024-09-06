@@ -4,7 +4,7 @@
 
 ## Education		
 - M.S.,  Computer Science 	| Sharif Univesity of Technology, Tehran, Iran | GPA: 19.64 out of 20	 
-- B.S.,  Computer Science | University of Isfahan, Isfahan, Iran, |GPA: 17.87 out of 20, Ranked 1/56 in the Computer Science Department
+- B.S.,  Computer Science | University of Isfahan, Isfahan, Iran, |GPA: 17.87 out of 20, Ranked 1st among 56
 - Diploma of Mathematics and Physics | Affiliated with National Organization for Development of Exceptional Talents (NODET) |Diploma GPA: 19.64/20
 
 ## RESEARCH INTERESTS
@@ -16,7 +16,6 @@
 
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant under the supervision of Dr. Shahram Khazaei(2023 - Present)**
-
 Sharif University of Technology, Tehran, Iran.
 
 Thesis: Privacy-Preserving Federated Learning
@@ -25,7 +24,6 @@ Thesis: Privacy-Preserving Federated Learning
 -  Currently writing the thesis to publish a paper based on the research findings.
 
 **Automated Quality Control System using YOLO for Electronic Boards(2022 - 2023)**
-
 University of Isfahan, Isfahan, Iran.
 
 Advisor: Dr. Mohsen Alambardar
