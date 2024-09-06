@@ -3,21 +3,22 @@
 #### Technical Skills: Python, SQL, MATLAB
 
 ## Education		
-- M.S.,  Computer Science 	| Sharif Univesity of Technology, Tehran, Iran, GPA: 19.64 out of 20	 
-- B.S.,  Computer Science | University of Isfahan, Isfahan, Iran, GPA: 17.87 out of 20 | Ranked 1/56 in the Computer Science Department
-- Diploma of Mathematics and Physics | Affiliated with National Organization for Development of Exceptional Talents (NODET), Diploma GPA: 19.65/20
+- M.S.,  Computer Science 	| Sharif Univesity of Technology, Tehran, Iran | GPA: 19.64 out of 20	 
+- B.S.,  Computer Science | University of Isfahan, Isfahan, Iran, |GPA: 17.87 out of 20, Ranked 1/56 in the Computer Science Department
+- Diploma of Mathematics and Physics | Affiliated with National Organization for Development of Exceptional Talents (NODET) |Diploma GPA: 19.64/20
 
 ## RESEARCH INTERESTS
-• Secure Multi-Party Computation
-• Applied Cryptography
-• Federated learning
-• Blockchain
+• Secure Multi-Party Computation |
+• Applied Cryptography |
+• Federated learning |
+• Blockchain |
 • Privacy
 
 ## RESEARCH EXPERIENCE
 **Graduate Research Assistant under the supervision of Dr. Shahram Khazaei(2023 - Present)**
 
 Sharif University of Technology, Tehran, Iran.
+
 Thesis: Privacy-Preserving Federated Learning
 -  Research methods to enhance the privacy and security of federated learning systems.
 -  Focusing on developing algorithms and protocols that allow for distributed machine learning without compromising user data privacy.
@@ -26,6 +27,7 @@ Thesis: Privacy-Preserving Federated Learning
 **Automated Quality Control System using YOLO for Electronic Boards(2022 - 2023)**
 
 University of Isfahan, Isfahan, Iran.
+
 Advisor: Dr. Mohsen Alambardar
 - Developed an image processing application utilizing YOLO to inspect electronic boards on a conveyor belt.
 - The application was designed to detect missing components and ensure all elements were positioned correctly on the boards.
