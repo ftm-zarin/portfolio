@@ -1,78 +1,67 @@
-# Fatemeh Zarinjouee
+# Fatemeh Zarinjouei
 
-#### Technical Skills: Python, SQL, MATLAB
+## Technical Skills
+**Programming:** Python, C++, SQL, JavaScript, Solidity, RISC-V  
+**Machine Learning:** PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, YOLO  
+**Tools:** LaTeX, Git, PyQt5
 
-## Education		
-- M.S.,  Computer Science 	| Sharif Univesity of Technology, Tehran, Iran | GPA: 19.64 out of 20	 
-- B.S.,  Computer Science | University of Isfahan, Isfahan, Iran, |GPA: 17.87 out of 20, Ranked 1st among 56
-- Diploma of Mathematics and Physics | Affiliated with National Organization for Development of Exceptional Talents (NODET) |Diploma GPA: 19.64/20
+## Education
+- **M.S. Computer Science** | Sharif University of Technology, Tehran, Iran | *2023–2025 (expected)*  
+  GPA: 19.61 / 20 — Thesis: Zero-Knowledge Machine Learning (ZKML)
+- **B.S. Computer Science** | University of Isfahan, Isfahan, Iran | *2019–2023*  
+  GPA: 17.87 / 20 — Ranked 1st in the Computer Science Department
+- **Diploma in Mathematics and Physics** | National Organization for Development of Exceptional Talents (NODET)  
+  GPA: 19.64 / 20
 
-## RESEARCH INTERESTS
-• Secure Multi-Party Computation |
-• Applied Cryptography |
-• Federated learning |
-• Blockchain |
-• Privacy
+## Research Interests
+I am broadly interested in applied cryptography and its use in building systems that protect users’ privacy in the real world. Recently, I have become focused on proof systems and their potential to make machine learning more trustworthy and auditable. My research explores cryptographic approaches to trustworthy machine learning, including the design of zero-knowledge proofs for neural networks that enable verifiable inference without exposing sensitive model parameters. More broadly, I aim to develop privacy-preserving machine learning pipelines that not only safeguard users’ data but also provide auditable guarantees of compliance, combining secure multi-party computation and zero-knowledge proofs to create systems that can be transparently trusted in deployment.
 
-## RESEARCH EXPERIENCE
-**Graduate Research Assistant under the supervision of Dr. Shahram Khazaei(2023 - Present)**
-Sharif University of Technology, Tehran, Iran.
+## Research Experience
+**Graduate Research Assistant — ZKRNN: Zero-Knowledge Proofs for Recurrent Neural Networks (2024–Present)**  
+University of Sheffield & Sharif University of Technology  
+- Designing cryptographic protocols to generate succinct zero-knowledge proofs for RNN inference using Incrementally Verifiable Computation (IVC).  
+- Currently developing and preparing a manuscript for publication.
 
-Thesis: Privacy-Preserving Federated Learning
--  Research methods to enhance the privacy and security of federated learning systems.
--  Focusing on developing algorithms and protocols that allow for distributed machine learning without compromising user data privacy.
--  Currently writing the thesis to publish a paper based on the research findings.
+**Research Intern — Secure E-Voting with Everlasting Privacy (2025–Present)**  
+École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland  
+- Extending the *TRIP* framework to achieve post-quantum everlasting privacy guarantees in e-voting.  
+- Exploring cryptographic primitives and protocol designs for long-term security against quantum adversaries.
 
-**Automated Quality Control System using YOLO for Electronic Boards(2022 - 2023)**
-University of Isfahan, Isfahan, Iran.
+**Research Intern — Proof-of-Personhood Usability Study for Digital Democracy (2025–Present)**  
+École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland  
+- Developed a mobile-friendly web application for Proof-of-Personhood (PoP) to support usability evaluation.  
+- Conducted a pilot study and preparing for HR-approved user study.
 
-Advisor: Dr. Mohsen Alambardar
-- Developed an image processing application utilizing YOLO to inspect electronic boards on a conveyor belt.
-- The application was designed to detect missing components and ensure all elements were positioned correctly on the boards.
-- Successfully integrated the application into a Raspberry Pi for industrial use, aiming to be deployed in an electronic components manufacturing facility for quality assurance.
+**Graduate Research Assistant — Privacy-Preserving Federated Learning (2023–2024)**  
+Sharif University of Technology, Tehran, Iran  
+- Investigated secure aggregation and MPC-based techniques to enhance privacy in federated learning.  
+- Focused on challenges in security and privacy for distributed machine learning systems.
 
-
-## Course Projects
-#### Computer Vision Project
-Introduction to Machine Learning course project, Department of Mathematical Sciences, Sharif University of Technology.
-
-#### Face recognition using eigenfaces and PCA 
-Matrix Computations course project, Department of Mathematical Sciences, Sharif University of Technology
-
-#### Cracking a classic Encryption Scheme
-Cryptography Project, Mathematics and Computer Science Department, Isfahan University.
-
-#### Developing Compiler Scanner using python
-Compiler Design Project, Mathematics and Computer Science Department, Isfahan University.
-
-##### Implementation of an RSA encryption and decryption system
-Advanced Programming Project, Mathematics and Computer Science Department, Isfahan University.
-
+**Undergraduate Researcher — Automated Quality Control System using YOLO (2022–2023)**  
+University of Isfahan, Isfahan, Iran  
+- Built an image-processing system using YOLO to detect missing components on electronic boards.  
+- Deployed on Raspberry Pi for industrial quality control use.
 
 ## Teaching Experience
-#### Teaching Assistant for Graduate course ”Foundation of Blockchains”.
-Prof. Mohammad Ali Maddah-Ali, Department of Electrical and Computer Engineering, University of Minnesota,
-Twin Cities.
-#### Teaching Assistant for BS course ”Mathematical Database”. 
-DR. Mojtaba Rafiee, Mathematics and Computer Science Department, Isfahan University.
-####  Head Teaching Assistant for BS course ”Data Structure and Algorithms
-DR. Jafar AlmasiZadeh, Mathematics and Computer Science Department, Isfahan University.
+- **Teaching Assistant — Introduction to Cryptography (Graduate)** | Sharif University of Technology (2024)  
+- **Teaching Assistant — Foundation of Blockchains (Graduate)** | University of Minnesota, Twin Cities (2023)  
+- **Teaching Assistant — Mathematical Database** | University of Isfahan (2023)  
+- **Head Teaching Assistant — Data Structures and Algorithms** | University of Isfahan (2022)
 
-## RELEVANT COURSES
-- INTRO TO CRYPTOGRAPHY (20/20)
--  MATRIX COMPU (20/20)
-- MACHINE LEARNING THEORY (20/20)
-- Design and Analysis of Algorithms(20/20)
-- Advanced Programming(20/20)
-- Linear Optimization(20/20)
-- Principles of Operating Systems(20/20)
-- Artificial Intelligence(19/20)
-- Principles of Network Security (19.75/20)
+## Relevant Courses
+- Theory of Distributed Systems (20/20)  
+- Design and Analysis of Algorithms (20/20)  
+- Introduction to Cryptography (20/20)  
+- Principles of Network Security (19.75/20)  
+- Machine Learning Theory (20/20)  
+- Matrix Computation (20/20)  
+- Advanced Programming (20/20)  
+- Linear Optimization (20/20)  
+- Principles of Operating Systems (20/20)  
+- Artificial Intelligence (19/20)
 
-## WORKSHOPS AND SEMINARS
-• Attended the 5th Sharif Neuroscience Symposium held on March 2-3 2023 at Sharif University of Technology
-
-## SKILLS SUMMARY
-Programming Languages: Python, SQL, Matlab, JavaScript, Solidity, RISC-V
-
-Tools: LATEX, PyTorch, Scikit-Learn, Pandas, NumPy, MatPlotlib, YOLO, PyQt5
+## Course Projects
+- **[Computer Vision Project](https://github.com/ftm-zarin/computer-vision-project)** — Intro to Machine Learning, SUT  
+- **[Face Recognition using Eigenfaces and PCA](https://github.com/ftm-zarin/eigenfaces-pca)** — Matrix Computations, SUT  
+- **[Cracking a Classic Encryption Scheme](https://github.com/ftm-zarin/crypto-classic)** — Cryptography Project, University of Isfahan  
+- **[RSA Encryption and Decryption System](https://github.com/ftm-zarin/rsa-implementation)** — Advanced Programming, University of Isfahan
