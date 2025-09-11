@@ -1,5 +1,5 @@
 # Fatemeh Zarinjouei
-*Graduate Research Assistant in Applied Cryptography 
+Graduate Research Assistant in Applied Cryptography 
 
 ---
 
