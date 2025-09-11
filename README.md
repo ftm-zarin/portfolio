@@ -1,5 +1,5 @@
 # Fatemeh Zarinjouei
-*Graduate Research Assistant • Applied Cryptography & Proof Systems • Privacy-Preserving Machine Learning*
+*Graduate Research Assistant in Applied Cryptography 
 
 ---
 
@@ -47,25 +47,30 @@ University of Isfahan
 ---
 
 ## Teaching Experience
-- **Teaching Assistant — Introduction to Cryptography (Graduate)** | Sharif University of Technology (2024)  
-- **Teaching Assistant — Foundation of Blockchains (Graduate)** | University of Minnesota, Twin Cities (2023)  
-- **Teaching Assistant — Mathematical Database** | University of Isfahan (2023)  
-- **Head Teaching Assistant — Data Structures and Algorithms** | University of Isfahan (2022)
+- **Introduction to Cryptography (Graduate)** | Sharif University of Technology (2024)  
+- **Foundation of Blockchains (Graduate)** | University of Minnesota, Twin Cities (2023)  
+- **Mathematical Database** | University of Isfahan (2023)  
+- **Data Structures and Algorithms** | University of Isfahan (2022)
 
 ---
 
 ## Relevant Courses
-Theory of Distributed Systems (20/20) • Design and Analysis of Algorithms (20/20) • Introduction to Cryptography (20/20) •  
-Principles of Network Security (19.75/20) • Machine Learning Theory (20/20) • Matrix Computation (20/20) •  
-Advanced Programming (20/20) • Linear Optimization (20/20) • Principles of Operating Systems (20/20) • Artificial Intelligence (19/20)
+• Theory of Distributed Systems (20/20)
+• Design and Analysis of Algorithms (20/20) 
+• Introduction to Cryptography (20/20) 
+• Machine Learning Theory (20/20) 
+• Matrix Computation (20/20)  
+• Advanced Programming (20/20) 
+• Linear Optimization (20/20) 
+• Principles of Operating Systems (20/20) 
 
 ---
 
 ## Course Projects
 - **[Computer Vision Project](https://github.com/ftm-zarin/computer-vision-project)** — Intro to Machine Learning, SUT  
-- **[Face Recognition using Eigenfaces and PCA](https://github.com/ftm-zarin/eigenfaces-pca)** — Matrix Computations, SUT  
-- **[Cracking a Classic Encryption Scheme](https://github.com/ftm-zarin/crypto-classic)** — Cryptography Project, University of Isfahan  
-- **[RSA Encryption and Decryption System](https://github.com/ftm-zarin/rsa-implementation)** — Advanced Programming, University of Isfahan
+- **[Face Recognition using Eigenfaces and PCA](https://github.com/ftm-zarin/EigenFace)** — Matrix Computations, SUT  
+- **[Cracking a Classic Encryption Scheme]()** — Cryptography Project, University of Isfahan  
+- **[RSA Encryption and Decryption System](https://github.com/ftm-zarin/rsa)** — Advanced Programming, University of Isfahan
 
 ---
 
