@@ -5,7 +5,7 @@ Graduate Research Assistant in Applied Cryptography
 
 ## Education
 - **M.S. Computer Science** | Sharif University of Technology, Tehran, Iran | *2023–2026 (expected)*  
-  GPA: 19.67 / 20 ranked 1 in the Department of Mathematical Sciences*
+  GPA: 19.67 / 20 — ranked 1 in the Department of Mathematical Sciences*
   Thesis: Zero-Knowledge Machine Learning (ZKML)
 - **B.S. Computer Science** | University of Isfahan, Isfahan, Iran | *2019–2023*  
   GPA: 17.87 / 20 — Ranked 1st in the Computer Science Department
@@ -15,7 +15,7 @@ Graduate Research Assistant in Applied Cryptography
 ---
 
 ## Research Interests
-I am broadly interested in applied cryptography and its use in building systems that protect users’ privacy in the real world. Recently, I have become focused on proof systems and their potential to make machine learning more trustworthy and auditable. My research explores cryptographic approaches to trustworthy machine learning, including the design of zero-knowledge proofs for neural networks that enable verifiable inference without exposing sensitive model parameters. More broadly, I aim to develop privacy-preserving machine learning pipelines that not only safeguard users’ data but also provide auditable guarantees of compliance, combining secure multi-party computation and zero-knowledge proofs to create systems that can be transparently trusted in deployment.
+ My research interests are in applied cryptography, with a particular focus on using the provable security methodology to build practical, privacy-preserving systems. I have experience in the design and analysis of cryptographic protocols, including zero-knowledge proofs and secure multi-party computation. I am also deeply interested in emerging challenges, such as the development of post-quantum cryptography to ensure long-term security for real-world applications and internet protocols.
 
 ---
 
@@ -30,7 +30,7 @@ University of Sheffield & Sharif University of Technology
 - Extending the *TRIP* framework to achieve post-quantum everlasting privacy guarantees in e-voting.  
 - Exploring cryptographic primitives and protocol designs for long-term security against quantum adversaries.
 
-**Research Intern — Proof-of-Personhood Usability Study for Digital Democracy (2025–Present)**  
+**Research Intern — Proof-of-Personhood Usability Study for Digital Democracy (Summer 2025)**  
 École Polytechnique Fédérale de Lausanne (EPFL)  
 - Developed a mobile-friendly web application for Proof-of-Personhood (PoP) to support usability evaluation.  
 - Conducted a pilot study and preparing for HR-approved user study.
@@ -76,7 +76,7 @@ University of Isfahan
 ---
 
 ## Technical Skills
-**Programming:** Python, C++, SQL, JavaScript, Solidity, RISC-V  
+**Programming:** Python, C++, Go, SQL, JavaScript, Solidity, RISC-V  
 **Machine Learning:** PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, YOLO  
 **Tools:** LaTeX, Git, PyQt5
 
