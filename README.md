@@ -5,7 +5,7 @@ Graduate Research Assistant in Applied Cryptography
 
 ## Education
 - **M.S. Computer Science** | Sharif University of Technology, Tehran, Iran | *2023–2026 (expected)*  
-  GPA: 19.67 / 20 — ranked 1 in the Department of Mathematical Sciences*
+  GPA: 19.67 / 20 — ranked 1 in the Department of Mathematical Sciences  
   Thesis: Zero-Knowledge Machine Learning (ZKML)
 - **B.S. Computer Science** | University of Isfahan, Isfahan, Iran | *2019–2023*  
   GPA: 17.87 / 20 — Ranked 1st in the Computer Science Department
