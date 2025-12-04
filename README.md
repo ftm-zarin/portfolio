@@ -1,7 +1,6 @@
 # Fatemeh Zarinjouei
 Graduate Research Assistant in Applied Cryptography 
 
-A highly-ranked M.S. student specializing in the design and implementation of privacy-preserving cryptographic protocols. Actively seeking a Ph.D. opportunity starting in 2026.
 ---
 
 ## Education
