@@ -1,6 +1,7 @@
 # Fatemeh Zarinjouei
-Graduate Research Assistant in Applied Cryptography 
+Graduate Research Assistant in Applied Cryptography 
 
+A highly-ranked M.S. student specializing in the design and implementation of privacy-preserving cryptographic protocols. Actively seeking a Ph.D. opportunity starting in 2026.
 ---
 
 ## Education
@@ -79,6 +80,14 @@ University of Isfahan
 **Programming:** Python, C++, Go, SQL, JavaScript, Solidity, RISC-V  
 **Machine Learning:** PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, YOLO  
 **Tools:** LaTeX, Git, PyQt5
+
+---
+
+---
+## Awards & Honors
+- **Ranked 1st** in the Department of Mathematical Sciences (M.S., Sharif University of Technology, 2023-Present)
+- **Ranked 1st** in the Computer Science Department (B.S., University of Isfahan, 2019–2023)
+- **NODET** (National Organization for Development of Exceptional Talents) Diploma
 
 ---
 
