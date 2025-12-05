@@ -82,8 +82,6 @@ University of Isfahan
 **Tools:** LaTeX, Git, PyQt5
 
 ---
-
----
 ## Awards & Honors
 - **Ranked 1st** in the Department of Mathematical Sciences (M.S., Sharif University of Technology, 2023-Present)
 - **Ranked 1st** in the Computer Science Department (B.S., University of Isfahan, 2019–2023)
