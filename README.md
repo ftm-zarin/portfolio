@@ -68,7 +68,7 @@ University of Isfahan
 ---
 
 ## Course Projects
-- **[A Survey on Byzantine Fault Tolerance Algorithms]([https://github.com/ftm-zarin/computer-vision-project](https://github.com/ftm-zarin/Byzantine-Fault-Tolerant-Consensus))** — Theory of Distributed Systems, SUT  
+- **[A Survey on Byzantine Fault Tolerance Algorithms](https://github.com/ftm-zarin/Byzantine-Fault-Tolerant-Consensus)** — Theory of Distributed Systems, SUT  
 - **[Computer Vision Project](https://github.com/ftm-zarin/computer-vision-project)** — Intro to Machine Learning, SUT  
 - **[Face Recognition using Eigenfaces and PCA](https://github.com/ftm-zarin/EigenFace)** — Matrix Computations, SUT  
 - **[Cracking a Classic Encryption Scheme]()** — Cryptography Project, University of Isfahan  
