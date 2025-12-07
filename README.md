@@ -39,6 +39,7 @@ University of Sheffield & Sharif University of Technology
 Sharif University of Technology  
 - Investigated secure aggregation and MPC-based techniques to enhance privacy in federated learning.  
 - Focused on challenges in security and privacy for distributed machine learning systems.
+- Identified a flaw in a IEEE TIFS 2023 verifiable aggregation protocol and proposed a fix to restore completeness ([Manuscript](assets/files/On_compeletness_of_EVP.pdf)).
 
 **Undergraduate Researcher — Automated Quality Control System using YOLO (2022–2023)**  
 University of Isfahan  
