@@ -1,13 +1,6 @@
-# title: Fatemeh ZarinJouei
-# logo: /assets/photo.png
-# #description: text below image
-# # show_downloads: true
-# theme: jekyll-theme-minimal
-
-
 title: Fatemeh ZarinJouei
 logo: /assets/photo.png
-description: "M.S. Student in Applied Cryptography | Sharif University of Technology"
-show_downloads: false # Set to false unless you want a "Download ZIP" button on your profile
+#description: text below image
+# show_downloads: true
 theme: jekyll-theme-minimal
 google_analytics: # Add your ID here if you want to track who visits
